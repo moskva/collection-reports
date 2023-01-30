@@ -1,2 +1,2 @@
-# collection-reports
+# Reports
  Reports collected online
